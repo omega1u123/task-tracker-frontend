@@ -1,0 +1,7 @@
+.desk-container{
+    height: 1080px;
+    padding-left: 110px;
+    padding-bottom: 20px;
+    background: rgb(18,106,133);
+    background: linear-gradient(90deg, rgba(18,106,133,1) 0%, rgba(155,52,165,1) 100%);
+}

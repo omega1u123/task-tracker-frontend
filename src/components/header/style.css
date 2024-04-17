@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    width: Fixed (1,440px)px;
+    height: Fixed (68px)px;
+    padding: 23px 469px 23px 469px;
+    gap: 10px;
+    opacity: 0px;
+    background: #0013FE;
+}
